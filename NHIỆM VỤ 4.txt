@@ -1,0 +1,120 @@
+NHIỆM VỤ 4:
+
+BÀI:
+    Nhớ ơn thầy cô:
+	 Hình thức biểu diễn: Đơn ca
+	 Tác giả: Nguyễn Ngọc Thiệp
+	 Năm sáng tác: 2014
+    Ngây ngô:
+	 Hình thức biểu diễn: Song ca
+	 Tác giả: Dương cầm
+	 Năm sáng tác: 2013
+    Giấc mơ thần tiên:
+	 Hình thức biểu diễn: Đơn ca
+	 Tác giả: Nguyễn Hoàng Linh
+	 Năm sáng tác: 2011
+    Bụi phấn:
+	 Hình thức biểu diễn: Đồng ca
+	 Tác giả: Vũ Hoàng
+	 Năm sáng tác: 1982
+    Xe đạp:
+	 Hình thức biểu diễn: Đồng ca
+	 Tác giả: Đinh mạnh Ninh
+	 Năm sáng tác: 2007
+    Ngày ấy bạn và tôi:
+	 Hình thức biểu diễn: Song ca
+	 Tác giả: Lynh Lee
+	 Năm sáng tác: 2013
+
+NHIỆM VỤ 1:
+	Dưới đây là một số chức năng của chuột máy tính mà có thể bạn chưa biết:
+
+1. Cuộn lăn: Chuột máy tính thường có một cuộn lăn giữa hai nút chính. Bạn có thể sử dụng cuộn lăn để di chuyển lên xuống trang web, tài liệu hoặc các danh sách dài một cách nhanh chóng và thuận tiện.
+
+2. Chuột có nhiều nút chức năng: Ngoài hai nút chính, một số loại chuột máy tính có thể đi kèm với các nút phụ khác. Các nút này có thể được gán chức năng tùy chỉnh, ví dụ như nút quay trở lại (back), nút tiến (forward), nút dừng (pause) trong trình phát nhạc hoặc video, hoặc thậm chí bất kỳ chức năng nào mà bạn muốn.
+
+3. Di chuyển và sao chép văn bản: Khi bạn nhấn giữ nút trái và kéo chuột qua một phạm vi văn bản, bạn có thể chọn và di chuyển hoặc sao chép nhanh chóng văn bản mà không cần sử dụng bàn phím. Điều này rất hữu ích khi bạn làm việc với các tài liệu hoặc trình soạn thảo văn bản.
+
+4. Phóng to và thu nhỏ: Một số chuột máy tính có thể được cấu hình để điều chỉnh độ phóng to và thu nhỏ của các đối tượng trên màn hình. Bạn chỉ cần nhấn nút phóng to hoặc thu nhỏ trên chuột để làm điều này, thay vì phải sử dụng các nút hoặc phím tắt trên bàn phím.
+
+5. Tìm kiếm: Một số chuột máy tính được trang bị nút tìm kiếm, cho phép bạn tìm kiếm nhanh chóng từ khóa hoặc các mục khác trên trang web hoặc trong các ứng dụng.
+
+6. Chức năng đa cửa sổ: Nếu bạn sử dụng hệ điều hành có hỗ trợ cửa sổ đa nhiệm như Windows hoặc macOS, bạn có thể sử dụng chuột của mình để di chuyển và quản lý các cửa sổ. Bằng cách nhấn nút trung tâm (hoặc cuộn lăn) trên một tiêu đề cửa sổ, bạn có thể kéo và thả hoặc đóng cửa sổ.
+
+NHIỆM VỤ 3:
+
+	==========================Kế hoạch một============================
+Đy là một phụ đề chi tiết về các hoạt động trong một ngày trong chuyến đi Đà Nẵng:
+
+Ngày 1 - Đến Đà Nẵng, tham quan Bán đảo Sơn Trà và tắm biển:
+- Buổi sáng: Đến sân bay Đà Nẵng từ Hà Nội. Di chuyển đến khách sạn và làm thủ tục check-in.
+- Buổi trưa: Ăn trưa tại nhà hàng gần khách sạn.
+- Buổi chiều: Khám phá Bán đảo Sơn Trà, bao gồm viếng thăm đỉnh Bàn Cờ, thăm Quan Âm Bồ Tát cao 67m, và tắm biển tại bãi Bắc Mỹ An.
+- Buổi tối: Ăn tối tại một nhà hàng địa phương và thưởng thức đờn ca tài tử.
+
+Ngày 2 - Tour du lịch ra Cù Lao Chàm để khám phá hòn đảo:
+- Buổi sáng: Đón xe đưa đón đi cảng Cửa Đại để lên tàu hoặc du thuyền đến Cù Lao Chàm.
+- Buổi trưa: Ăn trưa trên đảo.
+- Buổi chiều: Dạo chơi và khám phá hòn đảo, tắm biển tại bãi Bãi Bàng hoặc Bãi Hòn Dầu.
+- Buổi tối: Trở về khách sạn và dành thời gian thư giãn, thưởng thức các món ăn địa phương.
+
+Ngày 3 - Thăm quan phố cổ Hội An và tắm biển tại bãi biển Mỹ Khê:
+- Buổi sáng: Di chuyển từ Đà Nẵng đến phố cổ Hội An và tham quan các di tích lịch sử như Chùa Cầu Nhật Bản, Nhà cổ Tấn Ký, và Bảo tàng Hội An.
+- Buổi trưa: Ăn trưa tại một nhà hàng đặc sản Hội An.
+- Buổi chiều: Trở lại Đà Nẵng và đi tắm biển tại bãi biển Mỹ Khê, tham gia các hoạt động thể thao nước như lướt ván, đi xe trượt nước.
+- Buổi tối: Ăn tối tại một nhà hàng biển và tận hưởng không khí vui vẻ của thành phố.
+
+Ngày 4 - Trải nghiệm cuối cùng tại Đà Nẵng và trở về:
+- Buổi sáng: Dành thời gian mua sắm các sản phẩm đặc sản và quà lưu niệm tại các chợ địa phương.
+- Buổi trưa: Ăn trưa tại nhà hàng gần khách sạn và dọn dẹp, chuẩn bị để trở về.
+- Buổi chiều: Trở lại sân bay Đà Nẵng và bay về Hà Nội.
+
+Lưu ý rằng các hoạt động và thời gian được ghi rõ ở trên chỉ là đề xuất, bạn có thể điều chỉnh và lựa chọn những hoạt động mà bạn và gia đình mong muốn tham gia.
+	==========================Kế hoạch hai=============================
+Xin lỗi vì sự hiểu lầm trước đó. Dưới đây là phần mô tả hoạt động cho mỗi ngày trong chuyến đi du lịch Đà Nẵng:
+
+Ngày 1:
+- Buổi sáng: Đến sân bay Đà Nẵng và di chuyển đến khách sạn để làm thủ tục check-in.
+- Buổi trưa: Ăn trưa tại một nhà hàng địa phương.
+- Buổi chiều: Thăm Bà Nà Hills, khám phá vườn hoa, cầu Vàng, các công trình kiến trúc độc đáo và tận hưởng cảnh quan núi non tuyệt đẹp.
+- Buổi tối: Trở lại khách sạn và thưởng thức các món ăn đặc sản Đà Nẵng.
+
+Ngày 2:
+- Buổi sáng: Tham quan Bán đảo Sơn Trà, dạo bước trên bãi biển Mỹ Khê và tắm biển.
+- Buổi trưa: Ăn trưa tại một nhà hàng biển.
+- Buổi chiều: Khám phá Bãi Rạng và ngắm hoàng hôn tại bãi biển Non Nước.
+- Buổi tối: Thưởng thức ẩm thực Đà Nẵng truyền thống và tham gia hoạt động giải trí tại khu vực trung tâm thành phố.
+
+Ngày 3:
+- Buổi sáng: Thăm bãi biển Mỹ Khê và tham gia các hoạt động thể thao nước như lướt ván, đi xe trượt nước.
+- Buổi trưa: Ăn trưa tại một nhà hàng đặc sản Đà Nẵng.
+- Buổi chiều: Dạo chơi và mua sắm tại phố cổ Hội An, tham quan những ngôi nhà cổ và cầu cổ nổi tiếng.
+- Buổi tối: Trở về Đà Nẵng và thưởng thức ẩm thực độc đáo của thành phố.
+
+Ngày 4:
+- Buổi sáng: Tận hưởng thời gian cuối cùng ở Đà Nẵng, thăm quan những điểm du lịch cuối cùng mà bạn muốn khám phá.
+- Buổi trưa: Ăn trưa tại một nhà hàng địa phương.
+- Buổi chiều: Chuẩn bị để trở về sân bay Đà Nẵng và kết thúc chuyến đi.
+
+Lưu ý rằng các hoạt động và lịch trình có thể thay đổi theo sở thích của bạn và điều kiện thực tế trong thời gian bạn ở Đà Nẵng. Hãy thảo luận và sắp xếp lịch trình với nhóm bạn hoặc gia đình của bạn để có một kế hoạch phù hợp.
+
+CHI PHÍ CHO KẾ HOẠCH 2:
+1. Vé máy bay:
+   Giá vé máy bay kh hồi từ TP.HCM đến Đà Nẵng: khoảng 2.500.000 - 3.000.000 VND/người.
+
+2. Lưu trú:
+   - Khách sạn tiêu chuẩn 3 sao: khoảng 500.000 - 1.000.000 VND/đêm.
+   - Khách sạn tiêu chuẩn 4 sao: khoảng 1.500.000 - 2.500.000 VND/đêm.
+   - Khách sạn cao cấp 5 sao: từ 3.000.000 VND/đêm trở lên.
+
+3. Ăn uống:
+   - Bữa sáng: 50.000 - 150.000 VND/người.
+   - Bữa trưa và tối: 100.000 - 300.000 VND/người.
+
+4. Vận chuyển:
+   - Taxi hoặc dịch vụ xe đưa đón: khoảng 100.000 - 200.000 VND/điểm đến.
+
+5. Hoạt động giải trí:
+   - Vé tham quan công viên Bà Nà Hills: khoảng 700.000 - 1.500.000 VND/người.
+   - Vé tham quan Bán đảo Sơn Trà: khoảng 100.000 VND/người.
+   - Hoạt động thể thao nước (lướt ván, đi xe trượt nước): từ 100.000 - 300.000 VND/người.
